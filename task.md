@@ -10,8 +10,8 @@
 * [x] airplane.alien.heavyfighter.txt
 * [x] airplane.alien.interceptor.txt
 * [x] airplane.alien.landingship.txt
-* [ ] airplane.alien.lightscout.txt
-* [ ] airplane.alien.scout.txt
+* [x] airplane.alien.lightscout.txt
+* [x] airplane.alien.scout.txt
 * [ ] airplane.alien.strikecruiser.txt
 * [x] airplane.human.chinook.txt
 * [x] airplane.human.corsair.txt
